@@ -1,4 +1,4 @@
-# Agile Project Management and ETL-Driven Exploratory Data Analysis for Enhanced Efficiency in Müsli Distribution
+# Agile Project Management and Exploratory Data Analysis for Enhanced Efficiency in Müsli Distribution
 
 ## Introduction
 Performed Exploratory Data Analysis on Müsli Distribution Company: Unveiling Insights for Enhanced Delivery Service
